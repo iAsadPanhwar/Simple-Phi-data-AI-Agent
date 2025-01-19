@@ -7,3 +7,5 @@ uvicorn
 groq
 phidata
 openai
+python-docx
+python-multipart
